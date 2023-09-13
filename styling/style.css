@@ -1,0 +1,24 @@
+h1 {
+    color: rgb(25, 207, 119);
+    text-align:center;
+}
+h2 {
+    text-align: center;
+    color: rgba(219, 134, 37, 0.568);
+}
+p {
+    text-align: center;
+    color: rgb(72, 164, 244);
+}
+h3 {
+    font-size: 14px;
+    color: rgb(64, 72, 226);
+}
+h4 {
+    font-size: 14px;
+    color: rgb(64, 72, 226);
+}
+h5 {
+    font-size: 14px;
+    color: rgb(64, 72, 226);
+}
